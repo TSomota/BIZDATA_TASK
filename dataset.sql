@@ -1,0 +1,1 @@
+SELECT * FROM bizdata.new_table;

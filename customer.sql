@@ -1,0 +1,1 @@
+SELECT * FROM bizdata.customer_table2;
